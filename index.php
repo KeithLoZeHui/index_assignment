@@ -17,7 +17,8 @@ if (!$loggedIn) {
     <link href="style.css" rel="stylesheet">
     <title>Farm.info</title>
     <style>
-        #logo {
+        #logo 
+        {
             width: 100px;
             height: 100px;
         }
@@ -26,9 +27,7 @@ if (!$loggedIn) {
             display: flex;
             align-items: center;
         }
-        
-        
-
+    
         #button_cont1 {
             text-align: right;
             padding: 10px;
